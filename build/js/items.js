@@ -3,6 +3,12 @@
 $(document).ready(function() {
   var items = [
    {
+      "name" : "Fitness 4U",
+      "image" : "models/thumbnails/thumbnail_fitness4u.png",
+      "model" : "models/js/fitness4u.js",
+      "type" : "1"
+    },
+    {
       "name" : "Closed Door",
       "image" : "models/thumbnails/thumbnail_Screen_Shot_2014-10-27_at_8.04.12_PM.png",
       "model" : "models/js/closed-door28x80_baked.js",
