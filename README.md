@@ -3,7 +3,7 @@ This is a javascript floorplanner tool based on the existing typescript based pr
 
 ## DEMO ##
 
-[Cick for example](https://aalavandhaann.github.io/blueprint-js/build)
+[Cick for example](https://sforshoaib.github.io/blueprint-js/build)
 
 ## DEMO VR ##
 The ability to export the floorplan as GLTF gives the scope of having easy VR with A-Frame. Export the layout to use it directly with A-Frame or process it further using Blender and then use it with A-Frame. 
